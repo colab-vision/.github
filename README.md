@@ -1,3 +1,3 @@
 ## .github
 
-Taking the remote work to the moon 🚀
+Community health files for the @Collab-vision organization
